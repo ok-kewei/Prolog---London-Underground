@@ -14,12 +14,11 @@ search. (see Bratko 4th edition chapters 11,12,13)
 
 It is expected that the final report will be 9-12 pages, but you can use appendices for
 any additional detail you deem appropriate.
-Assignment 2) Marking Scheme Prolog
-Executive Summary [5]
-Introduction/Background [5]
-Main body/Content
-Prolog code, description of representation,
-answers to Prolog queries, Prolog documentation [70]
-Conclusions [5]
-Use of clear/concise English [10]
-Report Presentation/ layout [5]
+Assignment Marking Scheme Prolog  
+- Executive Summary [5]  
+- Introduction/Background [5]  
+- Main body/Content  
+    - Prolog code, description of representation, answers to Prolog queries, Prolog documentation [70]  
+- Conclusions [5]  
+- Use of clear/concise English [10]  
+- Report Presentation/ layout [5]  
